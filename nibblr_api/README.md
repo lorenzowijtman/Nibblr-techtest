@@ -1,3 +1,5 @@
+# Laravel todo API
+
 ## Work done
 For this assignment I've done the main tasks described in the assignment. I did not have enough time to 
 do the extra's as well because I'm in the middle of my finals. However, I will get back to the authentication and 
